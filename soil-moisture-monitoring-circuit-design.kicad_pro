@@ -510,11 +510,16 @@
     },
     "net_colors": null,
     "netclass_assignments": null,
-    "netclass_patterns": []
+    "netclass_patterns": [
+      {
+        "netclass": "Power_high",
+        "pattern": "I2C_SDA"
+      }
+    ]
   },
   "pcbnew": {
     "last_paths": {
-      "gencad": "",
+      "gencad": "soil-moisture-monitoring-circuit-design.cad",
       "idf": "",
       "netlist": "",
       "plot": "",
