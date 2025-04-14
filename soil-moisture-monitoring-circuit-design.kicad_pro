@@ -522,7 +522,7 @@
       "gencad": "soil-moisture-monitoring-circuit-design.cad",
       "idf": "",
       "netlist": "",
-      "plot": "",
+      "plot": "gerber_files/",
       "pos_files": "",
       "specctra_dsn": "",
       "step": "",
